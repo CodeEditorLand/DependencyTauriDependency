@@ -1,315 +1,419 @@
 [submodule "actions-netlify"]
-	path = actions-netlify
-	url = ssh://git@github.com/CodeEditorLand/actions-netlify.git
+path = actions-netlify
+url = ssh://git@github.com/CodeEditorLand/actions-netlify.git
+
 [submodule "AppRun"]
-	path = AppRun
-	url = ssh://git@github.com/CodeEditorLand/AppRun.git
+path = AppRun
+url = ssh://git@github.com/CodeEditorLand/AppRun.git
+
 [submodule "automation"]
-	path = automation
-	url = ssh://git@github.com/CodeEditorLand/automation.git
+path = automation
+url = ssh://git@github.com/CodeEditorLand/automation.git
+
 [submodule "awesome-tauri"]
-	path = awesome-tauri
-	url = ssh://git@github.com/CodeEditorLand/awesome-tauri.git
+path = awesome-tauri
+url = ssh://git@github.com/CodeEditorLand/awesome-tauri.git
+
 [submodule "benchmark_electron"]
-	path = benchmark_electron
-	url = ssh://git@github.com/CodeEditorLand/benchmark_electron.git
+path = benchmark_electron
+url = ssh://git@github.com/CodeEditorLand/benchmark_electron.git
+
 [submodule "benchmark_results"]
-	path = benchmark_results
-	url = ssh://git@github.com/CodeEditorLand/benchmark_results.git
+path = benchmark_results
+url = ssh://git@github.com/CodeEditorLand/benchmark_results.git
+
 [submodule "binary-releases"]
-	path = binary-releases
-	url = ssh://git@github.com/CodeEditorLand/binary-releases.git
+path = binary-releases
+url = ssh://git@github.com/CodeEditorLand/binary-releases.git
+
 [submodule "board-voter"]
-	path = board-voter
-	url = ssh://git@github.com/CodeEditorLand/board-voter.git
+path = board-voter
+url = ssh://git@github.com/CodeEditorLand/board-voter.git
+
 [submodule "cargo-mobile2"]
-	path = cargo-mobile2
-	url = ssh://git@github.com/CodeEditorLand/cargo-mobile2.git
+path = cargo-mobile2
+url = ssh://git@github.com/CodeEditorLand/cargo-mobile2.git
+
 [submodule "create-pull-request"]
-	path = create-pull-request
-	url = ssh://git@github.com/CodeEditorLand/create-pull-request.git
+path = create-pull-request
+url = ssh://git@github.com/CodeEditorLand/create-pull-request.git
+
 [submodule "create-tauri-app"]
-	path = create-tauri-app
-	url = ssh://git@github.com/CodeEditorLand/create-tauri-app.git
+path = create-tauri-app
+url = ssh://git@github.com/CodeEditorLand/create-tauri-app.git
+
 [submodule "deno"]
-	path = deno
-	url = ssh://git@github.com/CodeEditorLand/deno.git
+path = deno
+url = ssh://git@github.com/CodeEditorLand/deno.git
+
 [submodule "dns-automation"]
-	path = dns-automation
-	url = ssh://git@github.com/CodeEditorLand/dns-automation.git
+path = dns-automation
+url = ssh://git@github.com/CodeEditorLand/dns-automation.git
+
 [submodule "docusaurus-meilisearch-indexer"]
-	path = docusaurus-meilisearch-indexer
-	url = ssh://git@github.com/CodeEditorLand/docusaurus-meilisearch-indexer.git
+path = docusaurus-meilisearch-indexer
+url = ssh://git@github.com/CodeEditorLand/docusaurus-meilisearch-indexer.git
+
 [submodule "egui"]
-	path = egui
-	url = ssh://git@github.com/CodeEditorLand/egui.git
+path = egui
+url = ssh://git@github.com/CodeEditorLand/egui.git
+
 [submodule "fix-path-env-rs"]
-	path = fix-path-env-rs
-	url = ssh://git@github.com/CodeEditorLand/fix-path-env-rs.git
+path = fix-path-env-rs
+url = ssh://git@github.com/CodeEditorLand/fix-path-env-rs.git
+
 [submodule "gh-tangle-release"]
-	path = gh-tangle-release
-	url = ssh://git@github.com/CodeEditorLand/gh-tangle-release.git
+path = gh-tangle-release
+url = ssh://git@github.com/CodeEditorLand/gh-tangle-release.git
+
 [submodule "gipfs"]
-	path = gipfs
-	url = ssh://git@github.com/CodeEditorLand/gipfs.git
+path = gipfs
+url = ssh://git@github.com/CodeEditorLand/gipfs.git
+
 [submodule "gir-files"]
-	path = gir-files
-	url = ssh://git@github.com/CodeEditorLand/gir-files.git
+path = gir-files
+url = ssh://git@github.com/CodeEditorLand/gir-files.git
+
 [submodule "global-hotkey"]
-	path = global-hotkey
-	url = ssh://git@github.com/CodeEditorLand/global-hotkey.git
+path = global-hotkey
+url = ssh://git@github.com/CodeEditorLand/global-hotkey.git
+
 [submodule "glutin"]
-	path = glutin
-	url = ssh://git@github.com/CodeEditorLand/glutin.git
+path = glutin
+url = ssh://git@github.com/CodeEditorLand/glutin.git
+
 [submodule "governance-and-guidance"]
-	path = governance-and-guidance
-	url = ssh://git@github.com/CodeEditorLand/governance-and-guidance.git
+path = governance-and-guidance
+url = ssh://git@github.com/CodeEditorLand/governance-and-guidance.git
+
 [submodule "javascriptcore-rs"]
-	path = javascriptcore-rs
-	url = ssh://git@github.com/CodeEditorLand/javascriptcore-rs.git
+path = javascriptcore-rs
+url = ssh://git@github.com/CodeEditorLand/javascriptcore-rs.git
+
 [submodule "libappindicator-rs"]
-	path = libappindicator-rs
-	url = ssh://git@github.com/CodeEditorLand/libappindicator-rs.git
+path = libappindicator-rs
+url = ssh://git@github.com/CodeEditorLand/libappindicator-rs.git
+
 [submodule "linuxdeploy-plugin-gstreamer"]
-	path = linuxdeploy-plugin-gstreamer
-	url = ssh://git@github.com/CodeEditorLand/linuxdeploy-plugin-gstreamer.git
+path = linuxdeploy-plugin-gstreamer
+url = ssh://git@github.com/CodeEditorLand/linuxdeploy-plugin-gstreamer.git
+
 [submodule "linuxdeploy-plugin-gtk"]
-	path = linuxdeploy-plugin-gtk
-	url = ssh://git@github.com/CodeEditorLand/linuxdeploy-plugin-gtk.git
+path = linuxdeploy-plugin-gtk
+url = ssh://git@github.com/CodeEditorLand/linuxdeploy-plugin-gtk.git
+
 [submodule "meetings"]
-	path = meetings
-	url = ssh://git@github.com/CodeEditorLand/meetings.git
+path = meetings
+url = ssh://git@github.com/CodeEditorLand/meetings.git
+
 [submodule "meilisearch-docsearch"]
-	path = meilisearch-docsearch
-	url = ssh://git@github.com/CodeEditorLand/meilisearch-docsearch.git
+path = meilisearch-docsearch
+url = ssh://git@github.com/CodeEditorLand/meilisearch-docsearch.git
+
 [submodule "msedgedriver-manifest-cache"]
-	path = msedgedriver-manifest-cache
-	url = ssh://git@github.com/CodeEditorLand/msedgedriver-manifest-cache.git
+path = msedgedriver-manifest-cache
+url = ssh://git@github.com/CodeEditorLand/msedgedriver-manifest-cache.git
+
 [submodule "muda"]
-	path = muda
-	url = ssh://git@github.com/CodeEditorLand/muda.git
+path = muda
+url = ssh://git@github.com/CodeEditorLand/muda.git
+
 [submodule "nsis-tauri-utils"]
-	path = nsis-tauri-utils
-	url = ssh://git@github.com/CodeEditorLand/nsis-tauri-utils.git
+path = nsis-tauri-utils
+url = ssh://git@github.com/CodeEditorLand/nsis-tauri-utils.git
+
 [submodule "plugins-workspace"]
-	path = plugins-workspace
-	url = ssh://git@github.com/CodeEditorLand/plugins-workspace.git
+path = plugins-workspace
+url = ssh://git@github.com/CodeEditorLand/plugins-workspace.git
+
 [submodule "realworld"]
-	path = realworld
-	url = ssh://git@github.com/CodeEditorLand/realworld.git
+path = realworld
+url = ssh://git@github.com/CodeEditorLand/realworld.git
+
 [submodule "rfcs"]
-	path = rfcs
-	url = ssh://git@github.com/CodeEditorLand/rfcs.git
+path = rfcs
+url = ssh://git@github.com/CodeEditorLand/rfcs.git
+
 [submodule "rustdocusaurus"]
-	path = rustdocusaurus
-	url = ssh://git@github.com/CodeEditorLand/rustdocusaurus.git
+path = rustdocusaurus
+url = ssh://git@github.com/CodeEditorLand/rustdocusaurus.git
+
 [submodule "rust-icns"]
-	path = rust-icns
-	url = ssh://git@github.com/CodeEditorLand/rust-icns.git
+path = rust-icns
+url = ssh://git@github.com/CodeEditorLand/rust-icns.git
+
 [submodule "rust-xcode-plugin"]
-	path = rust-xcode-plugin
-	url = ssh://git@github.com/CodeEditorLand/rust-xcode-plugin.git
+path = rust-xcode-plugin
+url = ssh://git@github.com/CodeEditorLand/rust-xcode-plugin.git
+
 [submodule "smoke-tests"]
-	path = smoke-tests
-	url = ssh://git@github.com/CodeEditorLand/smoke-tests.git
+path = smoke-tests
+url = ssh://git@github.com/CodeEditorLand/smoke-tests.git
+
 [submodule "soup2-rs"]
-	path = soup2-rs
-	url = ssh://git@github.com/CodeEditorLand/soup2-rs.git
+path = soup2-rs
+url = ssh://git@github.com/CodeEditorLand/soup2-rs.git
+
 [submodule "tao"]
-	path = tao
-	url = ssh://git@github.com/CodeEditorLand/tao.git
+path = tao
+url = ssh://git@github.com/CodeEditorLand/tao.git
+
 [submodule "tauri"]
-	path = tauri
-	url = ssh://git@github.com/CodeEditorLand/tauri.git
+path = tauri
+url = ssh://git@github.com/CodeEditorLand/tauri.git
+
 [submodule "tauri.studio"]
-	path = tauri.studio
-	url = ssh://git@github.com/CodeEditorLand/tauri.studio.git
+path = tauri.studio
+url = ssh://git@github.com/CodeEditorLand/tauri.studio.git
+
 [submodule "tauri-action"]
-	path = tauri-action
-	url = ssh://git@github.com/CodeEditorLand/tauri-action.git
+path = tauri-action
+url = ssh://git@github.com/CodeEditorLand/tauri-action.git
+
 [submodule "tauri-bindgen"]
-	path = tauri-bindgen
-	url = ssh://git@github.com/CodeEditorLand/tauri-bindgen.git
+path = tauri-bindgen
+url = ssh://git@github.com/CodeEditorLand/tauri-bindgen.git
+
 [submodule "tauricon"]
-	path = tauricon
-	url = ssh://git@github.com/CodeEditorLand/tauricon.git
+path = tauricon
+url = ssh://git@github.com/CodeEditorLand/tauricon.git
+
 [submodule "tauri-dialog-rs"]
-	path = tauri-dialog-rs
-	url = ssh://git@github.com/CodeEditorLand/tauri-dialog-rs.git
+path = tauri-dialog-rs
+url = ssh://git@github.com/CodeEditorLand/tauri-dialog-rs.git
+
 [submodule "tauri-discord-bot"]
-	path = tauri-discord-bot
-	url = ssh://git@github.com/CodeEditorLand/tauri-discord-bot.git
+path = tauri-discord-bot
+url = ssh://git@github.com/CodeEditorLand/tauri-discord-bot.git
+
 [submodule "tauri-docs"]
-	path = tauri-docs
-	url = ssh://git@github.com/CodeEditorLand/tauri-docs.git
+path = tauri-docs
+url = ssh://git@github.com/CodeEditorLand/tauri-docs.git
+
 [submodule "tauri-egui"]
-	path = tauri-egui
-	url = ssh://git@github.com/CodeEditorLand/tauri-egui.git
+path = tauri-egui
+url = ssh://git@github.com/CodeEditorLand/tauri-egui.git
+
 [submodule "tauri-forage"]
-	path = tauri-forage
-	url = ssh://git@github.com/CodeEditorLand/tauri-forage.git
+path = tauri-forage
+url = ssh://git@github.com/CodeEditorLand/tauri-forage.git
+
 [submodule "tauri-github-bot"]
-	path = tauri-github-bot
-	url = ssh://git@github.com/CodeEditorLand/tauri-github-bot.git
+path = tauri-github-bot
+url = ssh://git@github.com/CodeEditorLand/tauri-github-bot.git
+
 [submodule "tauri-hotkey-rs"]
-	path = tauri-hotkey-rs
-	url = ssh://git@github.com/CodeEditorLand/tauri-hotkey-rs.git
+path = tauri-hotkey-rs
+url = ssh://git@github.com/CodeEditorLand/tauri-hotkey-rs.git
+
 [submodule "tauri-includedir"]
-	path = tauri-includedir
-	url = ssh://git@github.com/CodeEditorLand/tauri-includedir.git
+path = tauri-includedir
+url = ssh://git@github.com/CodeEditorLand/tauri-includedir.git
+
 [submodule "tauri-inliner"]
-	path = tauri-inliner
-	url = ssh://git@github.com/CodeEditorLand/tauri-inliner.git
+path = tauri-inliner
+url = ssh://git@github.com/CodeEditorLand/tauri-inliner.git
+
 [submodule "tauri-inliner-rs"]
-	path = tauri-inliner-rs
-	url = ssh://git@github.com/CodeEditorLand/tauri-inliner-rs.git
+path = tauri-inliner-rs
+url = ssh://git@github.com/CodeEditorLand/tauri-inliner-rs.git
+
 [submodule "tauri-invoke-http"]
-	path = tauri-invoke-http
-	url = ssh://git@github.com/CodeEditorLand/tauri-invoke-http.git
+path = tauri-invoke-http
+url = ssh://git@github.com/CodeEditorLand/tauri-invoke-http.git
+
 [submodule "tauri-plugin-app"]
-	path = tauri-plugin-app
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-app.git
+path = tauri-plugin-app
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-app.git
+
 [submodule "tauri-plugin-authenticator"]
-	path = tauri-plugin-authenticator
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-authenticator.git
+path = tauri-plugin-authenticator
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-authenticator.git
+
 [submodule "tauri-plugin-autostart"]
-	path = tauri-plugin-autostart
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-autostart.git
+path = tauri-plugin-autostart
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-autostart.git
+
 [submodule "tauri-plugin-cli"]
-	path = tauri-plugin-cli
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-cli.git
+path = tauri-plugin-cli
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-cli.git
+
 [submodule "tauri-plugin-clipboard-manager"]
-	path = tauri-plugin-clipboard-manager
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-clipboard-manager.git
+path = tauri-plugin-clipboard-manager
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-clipboard-manager.git
+
 [submodule "tauri-plugin-dialog"]
-	path = tauri-plugin-dialog
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-dialog.git
+path = tauri-plugin-dialog
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-dialog.git
+
 [submodule "tauri-plugin-fs"]
-	path = tauri-plugin-fs
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-fs.git
+path = tauri-plugin-fs
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-fs.git
+
 [submodule "tauri-plugin-fs-extra"]
-	path = tauri-plugin-fs-extra
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-fs-extra.git
+path = tauri-plugin-fs-extra
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-fs-extra.git
+
 [submodule "tauri-plugin-fs-watch"]
-	path = tauri-plugin-fs-watch
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-fs-watch.git
+path = tauri-plugin-fs-watch
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-fs-watch.git
+
 [submodule "tauri-plugin-global-shortcut"]
-	path = tauri-plugin-global-shortcut
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-global-shortcut.git
+path = tauri-plugin-global-shortcut
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-global-shortcut.git
+
 [submodule "tauri-plugin-http"]
-	path = tauri-plugin-http
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-http.git
+path = tauri-plugin-http
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-http.git
+
 [submodule "tauri-plugin-localhost"]
-	path = tauri-plugin-localhost
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-localhost.git
+path = tauri-plugin-localhost
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-localhost.git
+
 [submodule "tauri-plugin-log"]
-	path = tauri-plugin-log
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-log.git
+path = tauri-plugin-log
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-log.git
+
 [submodule "tauri-plugin-notification"]
-	path = tauri-plugin-notification
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-notification.git
+path = tauri-plugin-notification
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-notification.git
+
 [submodule "tauri-plugin-os"]
-	path = tauri-plugin-os
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-os.git
+path = tauri-plugin-os
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-os.git
+
 [submodule "tauri-plugin-persisted-scope"]
-	path = tauri-plugin-persisted-scope
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-persisted-scope.git
+path = tauri-plugin-persisted-scope
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-persisted-scope.git
+
 [submodule "tauri-plugin-positioner"]
-	path = tauri-plugin-positioner
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-positioner.git
+path = tauri-plugin-positioner
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-positioner.git
+
 [submodule "tauri-plugin-process"]
-	path = tauri-plugin-process
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-process.git
+path = tauri-plugin-process
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-process.git
+
 [submodule "tauri-plugin-shell"]
-	path = tauri-plugin-shell
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-shell.git
+path = tauri-plugin-shell
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-shell.git
+
 [submodule "tauri-plugin-single-instance"]
-	path = tauri-plugin-single-instance
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-single-instance.git
+path = tauri-plugin-single-instance
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-single-instance.git
+
 [submodule "tauri-plugin-sql"]
-	path = tauri-plugin-sql
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-sql.git
+path = tauri-plugin-sql
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-sql.git
+
 [submodule "tauri-plugin-store"]
-	path = tauri-plugin-store
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-store.git
+path = tauri-plugin-store
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-store.git
+
 [submodule "tauri-plugin-stronghold"]
-	path = tauri-plugin-stronghold
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-stronghold.git
+path = tauri-plugin-stronghold
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-stronghold.git
+
 [submodule "tauri-plugin-updater"]
-	path = tauri-plugin-updater
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-updater.git
+path = tauri-plugin-updater
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-updater.git
+
 [submodule "tauri-plugin-upload"]
-	path = tauri-plugin-upload
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-upload.git
+path = tauri-plugin-upload
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-upload.git
+
 [submodule "tauri-plugin-websocket"]
-	path = tauri-plugin-websocket
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-websocket.git
+path = tauri-plugin-websocket
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-websocket.git
+
 [submodule "tauri-plugin-window"]
-	path = tauri-plugin-window
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-window.git
+path = tauri-plugin-window
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-window.git
+
 [submodule "tauri-plugin-window-state"]
-	path = tauri-plugin-window-state
-	url = ssh://git@github.com/CodeEditorLand/tauri-plugin-window-state.git
+path = tauri-plugin-window-state
+url = ssh://git@github.com/CodeEditorLand/tauri-plugin-window-state.git
+
 [submodule "tauri-search"]
-	path = tauri-search
-	url = ssh://git@github.com/CodeEditorLand/tauri-search.git
+path = tauri-search
+url = ssh://git@github.com/CodeEditorLand/tauri-search.git
+
 [submodule "tauri-theia"]
-	path = tauri-theia
-	url = ssh://git@github.com/CodeEditorLand/tauri-theia.git
+path = tauri-theia
+url = ssh://git@github.com/CodeEditorLand/tauri-theia.git
+
 [submodule "tauri-toml"]
-	path = tauri-toml
-	url = ssh://git@github.com/CodeEditorLand/tauri-toml.git
+path = tauri-toml
+url = ssh://git@github.com/CodeEditorLand/tauri-toml.git
+
 [submodule "tauri-vscode"]
-	path = tauri-vscode
-	url = ssh://git@github.com/CodeEditorLand/tauri-vscode.git
+path = tauri-vscode
+url = ssh://git@github.com/CodeEditorLand/tauri-vscode.git
+
 [submodule "tauri-webpack"]
-	path = tauri-webpack
-	url = ssh://git@github.com/CodeEditorLand/tauri-webpack.git
+path = tauri-webpack
+url = ssh://git@github.com/CodeEditorLand/tauri-webpack.git
+
 [submodule "tray-icon"]
-	path = tray-icon
-	url = ssh://git@github.com/CodeEditorLand/tray-icon.git
+path = tray-icon
+url = ssh://git@github.com/CodeEditorLand/tray-icon.git
+
 [submodule "typedoc-plugin-markdown"]
-	path = typedoc-plugin-markdown
-	url = ssh://git@github.com/CodeEditorLand/typedoc-plugin-markdown.git
+path = typedoc-plugin-markdown
+url = ssh://git@github.com/CodeEditorLand/typedoc-plugin-markdown.git
+
 [submodule "typedocusaurus"]
-	path = typedocusaurus
-	url = ssh://git@github.com/CodeEditorLand/typedocusaurus.git
+path = typedocusaurus
+url = ssh://git@github.com/CodeEditorLand/typedocusaurus.git
+
 [submodule "vue-cli-plugin-tauri"]
-	path = vue-cli-plugin-tauri
-	url = ssh://git@github.com/CodeEditorLand/vue-cli-plugin-tauri.git
+path = vue-cli-plugin-tauri
+url = ssh://git@github.com/CodeEditorLand/vue-cli-plugin-tauri.git
+
 [submodule "webkit2gtk-rs"]
-	path = webkit2gtk-rs
-	url = ssh://git@github.com/CodeEditorLand/webkit2gtk-rs.git
+path = webkit2gtk-rs
+url = ssh://git@github.com/CodeEditorLand/webkit2gtk-rs.git
+
 [submodule "web-view"]
-	path = web-view
-	url = ssh://git@github.com/CodeEditorLand/web-view.git
+path = web-view
+url = ssh://git@github.com/CodeEditorLand/web-view.git
+
 [submodule "win7-notifications"]
-	path = win7-notifications
-	url = ssh://git@github.com/CodeEditorLand/win7-notifications.git
+path = win7-notifications
+url = ssh://git@github.com/CodeEditorLand/win7-notifications.git
+
 [submodule "window-shadows"]
-	path = window-shadows
-	url = ssh://git@github.com/CodeEditorLand/window-shadows.git
+path = window-shadows
+url = ssh://git@github.com/CodeEditorLand/window-shadows.git
+
 [submodule "window-vibrancy"]
-	path = window-vibrancy
-	url = ssh://git@github.com/CodeEditorLand/window-vibrancy.git
+path = window-vibrancy
+url = ssh://git@github.com/CodeEditorLand/window-vibrancy.git
+
 [submodule "winit"]
-	path = winit
-	url = ssh://git@github.com/CodeEditorLand/winit.git
+path = winit
+url = ssh://git@github.com/CodeEditorLand/winit.git
+
 [submodule "winres"]
-	path = winres
-	url = ssh://git@github.com/CodeEditorLand/winres.git
+path = winres
+url = ssh://git@github.com/CodeEditorLand/winres.git
+
 [submodule "winrt-notification"]
-	path = winrt-notification
-	url = ssh://git@github.com/CodeEditorLand/winrt-notification.git
+path = winrt-notification
+url = ssh://git@github.com/CodeEditorLand/winrt-notification.git
+
 [submodule "workflow-testbed"]
-	path = workflow-testbed
-	url = ssh://git@github.com/CodeEditorLand/workflow-testbed.git
+path = workflow-testbed
+url = ssh://git@github.com/CodeEditorLand/workflow-testbed.git
+
 [submodule "wry"]
-	path = wry
-	url = ssh://git@github.com/CodeEditorLand/wry.git
+path = wry
+url = ssh://git@github.com/CodeEditorLand/wry.git
+
 [submodule "wry-mobile"]
-	path = wry-mobile
-	url = ssh://git@github.com/CodeEditorLand/wry-mobile.git
+path = wry-mobile
+url = ssh://git@github.com/CodeEditorLand/wry-mobile.git
+
 [submodule "zserge-webview"]
-	path = zserge-webview
-	url = ssh://git@github.com/CodeEditorLand/zserge-webview.git
+path = zserge-webview
+url = ssh://git@github.com/CodeEditorLand/zserge-webview.git
