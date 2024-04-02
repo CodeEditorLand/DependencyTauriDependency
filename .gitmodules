@@ -417,6 +417,3 @@ url = ssh://git@github.com/CodeEditorLand/WryMobile.git
 [submodule "ZsergeWebview"]
 path = ZsergeWebview
 url = ssh://git@github.com/CodeEditorLand/ZsergeWebview.git
-[submodule "PrivateMoon"]
-	path = PrivateMoon
-	url = ssh://git@github.com/CodeEditorLand/PrivateMoon.git
