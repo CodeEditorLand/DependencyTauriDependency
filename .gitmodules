@@ -1,4 +1,3 @@
-
 [submodule "ActionsNetlify"]
 path = ActionsNetlify
 url = ssh://git@github.com/CodeEditorLand/ActionsNetlify.git
@@ -414,6 +413,7 @@ url = ssh://git@github.com/CodeEditorLand/WryMobile.git
 [submodule "ZSergeWebview"]
 path = ZSergeWebview
 url = ssh://git@github.com/CodeEditorLand/ZSergeWebview.git
+
 [submodule "TauriEGUI"]
-	path = TauriEGUI
-	url = ssh://git@github.com/CodeEditorLand/TauriEGUI.git
+path = TauriEGUI
+url = ssh://git@github.com/CodeEditorLand/TauriEGUI.git
