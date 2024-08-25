@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 git submodule add --depth 1 ssh://git@github.com/CodeEditorLand/ActionsNetlify.git
 git submodule add --depth 1 ssh://git@github.com/CodeEditorLand/AppRun.git
