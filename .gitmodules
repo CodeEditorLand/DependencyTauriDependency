@@ -1,0 +1,141 @@
+[submodule "BenchMarkElectron"]
+	path = BenchMarkElectron
+	url = ssh://git@github.com/CodeEditorLand/BenchMarkElectron.git
+[submodule "BenchMarkResults"]
+	path = BenchMarkResults
+	url = ssh://git@github.com/CodeEditorLand/BenchMarkResults.git
+[submodule "DNSAutomation"]
+	path = DNSAutomation
+	url = ssh://git@github.com/CodeEditorLand/DNSAutomation.git
+[submodule "DocusaurusMeiliSearchIndexer"]
+	path = DocusaurusMeiliSearchIndexer
+	url = ssh://git@github.com/CodeEditorLand/DocusaurusMeiliSearchIndexer.git
+[submodule "FixPathENVRS"]
+	path = FixPathENVRS
+	url = ssh://git@github.com/CodeEditorLand/FixPathENVRS.git
+[submodule "GHTangleRelease"]
+	path = GHTangleRelease
+	url = ssh://git@github.com/CodeEditorLand/GHTangleRelease.git
+[submodule "GipFS"]
+	path = GipFS
+	url = ssh://git@github.com/CodeEditorLand/GipFS.git
+[submodule "GlobalHotKey"]
+	path = GlobalHotKey
+	url = ssh://git@github.com/CodeEditorLand/GlobalHotKey.git
+[submodule "JavaScriptCoreRS"]
+	path = JavaScriptCoreRS
+	url = ssh://git@github.com/CodeEditorLand/JavaScriptCoreRS.git
+[submodule "LibAppIndicatorRS"]
+	path = LibAppIndicatorRS
+	url = ssh://git@github.com/CodeEditorLand/LibAppIndicatorRS.git
+[submodule "LinuxDeployPluginGstreamer"]
+	path = LinuxDeployPluginGstreamer
+	url = ssh://git@github.com/CodeEditorLand/LinuxDeployPluginGstreamer.git
+[submodule "LinuxDeployPluginGtk"]
+	path = LinuxDeployPluginGtk
+	url = ssh://git@github.com/CodeEditorLand/LinuxDeployPluginGtk.git
+[submodule "MeiliSearchDocsearch"]
+	path = MeiliSearchDocsearch
+	url = ssh://git@github.com/CodeEditorLand/MeiliSearchDocsearch.git
+[submodule "MSEdgeDriverManifestCache"]
+	path = MSEdgeDriverManifestCache
+	url = ssh://git@github.com/CodeEditorLand/MSEdgeDriverManifestCache.git
+[submodule "NSISTauriUtils"]
+	path = NSISTauriUtils
+	url = ssh://git@github.com/CodeEditorLand/NSISTauriUtils.git
+[submodule "RFCs"]
+	path = RFCs
+	url = ssh://git@github.com/CodeEditorLand/RFCs.git
+[submodule "RustDocusaurus"]
+	path = RustDocusaurus
+	url = ssh://git@github.com/CodeEditorLand/RustDocusaurus.git
+[submodule "RustICNS"]
+	path = RustICNS
+	url = ssh://git@github.com/CodeEditorLand/RustICNS.git
+[submodule "RustXCodePlugin"]
+	path = RustXCodePlugin
+	url = ssh://git@github.com/CodeEditorLand/RustXCodePlugin.git
+[submodule "Soup2RS"]
+	path = Soup2RS
+	url = ssh://git@github.com/CodeEditorLand/Soup2RS.git
+[submodule "TauriStudio"]
+	path = TauriStudio
+	url = ssh://git@github.com/CodeEditorLand/TauriStudio.git
+[submodule "TauriCon"]
+	path = TauriCon
+	url = ssh://git@github.com/CodeEditorLand/TauriCon.git
+[submodule "TauriDialogRS"]
+	path = TauriDialogRS
+	url = ssh://git@github.com/CodeEditorLand/TauriDialogRS.git
+[submodule "TauriEGUI"]
+	path = TauriEGUI
+	url = ssh://git@github.com/CodeEditorLand/TauriEGUI.git
+[submodule "TauriGitHubBot"]
+	path = TauriGitHubBot
+	url = ssh://git@github.com/CodeEditorLand/TauriGitHubBot.git
+[submodule "TauriHotKeyRS"]
+	path = TauriHotKeyRS
+	url = ssh://git@github.com/CodeEditorLand/TauriHotKeyRS.git
+[submodule "TauriIncludeDir"]
+	path = TauriIncludeDir
+	url = ssh://git@github.com/CodeEditorLand/TauriIncludeDir.git
+[submodule "TauriInlinerRS"]
+	path = TauriInlinerRS
+	url = ssh://git@github.com/CodeEditorLand/TauriInlinerRS.git
+[submodule "TauriInvokeHTTP"]
+	path = TauriInvokeHTTP
+	url = ssh://git@github.com/CodeEditorLand/TauriInvokeHTTP.git
+[submodule "TauriPluginCLI"]
+	path = TauriPluginCLI
+	url = ssh://git@github.com/CodeEditorLand/TauriPluginCLI.git
+[submodule "TauriPluginFS"]
+	path = TauriPluginFS
+	url = ssh://git@github.com/CodeEditorLand/TauriPluginFS.git
+[submodule "TauriPluginFSExtra"]
+	path = TauriPluginFSExtra
+	url = ssh://git@github.com/CodeEditorLand/TauriPluginFSExtra.git
+[submodule "TauriPluginFSWatch"]
+	path = TauriPluginFSWatch
+	url = ssh://git@github.com/CodeEditorLand/TauriPluginFSWatch.git
+[submodule "TauriPluginGlobalShortCut"]
+	path = TauriPluginGlobalShortCut
+	url = ssh://git@github.com/CodeEditorLand/TauriPluginGlobalShortCut.git
+[submodule "TauriPluginHTTP"]
+	path = TauriPluginHTTP
+	url = ssh://git@github.com/CodeEditorLand/TauriPluginHTTP.git
+[submodule "TauriPluginOS"]
+	path = TauriPluginOS
+	url = ssh://git@github.com/CodeEditorLand/TauriPluginOS.git
+[submodule "TauriPluginSQL"]
+	path = TauriPluginSQL
+	url = ssh://git@github.com/CodeEditorLand/TauriPluginSQL.git
+[submodule "TauriPluginStrongHold"]
+	path = TauriPluginStrongHold
+	url = ssh://git@github.com/CodeEditorLand/TauriPluginStrongHold.git
+[submodule "TauriPluginWebSocket"]
+	path = TauriPluginWebSocket
+	url = ssh://git@github.com/CodeEditorLand/TauriPluginWebSocket.git
+[submodule "TypeDocPluginMarkdown"]
+	path = TypeDocPluginMarkdown
+	url = ssh://git@github.com/CodeEditorLand/TypeDocPluginMarkdown.git
+[submodule "TypeDocusaurus"]
+	path = TypeDocusaurus
+	url = ssh://git@github.com/CodeEditorLand/TypeDocusaurus.git
+[submodule "VueCLIPluginTauri"]
+	path = VueCLIPluginTauri
+	url = ssh://git@github.com/CodeEditorLand/VueCLIPluginTauri.git
+[submodule "WebKit2GTKRS"]
+	path = WebKit2GTKRS
+	url = ssh://git@github.com/CodeEditorLand/WebKit2GTKRS.git
+[submodule "WinRes"]
+	path = WinRes
+	url = ssh://git@github.com/CodeEditorLand/WinRes.git
+[submodule "WinRTNotification"]
+	path = WinRTNotification
+	url = ssh://git@github.com/CodeEditorLand/WinRTNotification.git
+[submodule "WorkflowTestBed"]
+	path = WorkflowTestBed
+	url = ssh://git@github.com/CodeEditorLand/WorkflowTestBed.git
+[submodule "ZSergeWebview"]
+	path = ZSergeWebview
+	url = ssh://git@github.com/CodeEditorLand/ZSergeWebview.git
