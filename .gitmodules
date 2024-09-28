@@ -410,7 +410,6 @@ url = ssh://git@github.com/CodeEditorLand/WebView.git
 path = Deno
 url = ssh://git@github.com/CodeEditorLand/Deno.git
 
-<<<<<<< HEAD
 [submodule "Egui"]
 path = Egui
 url = ssh://git@github.com/CodeEditorLand/Egui.git
@@ -418,8 +417,3 @@ url = ssh://git@github.com/CodeEditorLand/Egui.git
 [submodule "TauriPluginAuthenticator"]
 path = TauriPluginAuthenticator
 url = ssh://git@github.com/CodeEditorLand/TauriPluginAuthenticator.git
-=======
-[submodule "EGUI"]
-path = EGUI
-url = ssh://git@github.com/CodeEditorLand/EGUI.git
->>>>>>> 80324017bf8463e2e70b57ee22183fa00aca1e42
