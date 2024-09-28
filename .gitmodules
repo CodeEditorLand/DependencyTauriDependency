@@ -405,3 +405,11 @@ url = ssh://git@github.com/CodeEditorLand/Win7Notifications.git
 [submodule "WebView"]
 path = WebView
 url = ssh://git@github.com/CodeEditorLand/WebView.git
+
+[submodule "Deno"]
+path = Deno
+url = ssh://git@github.com/CodeEditorLand/Deno.git
+
+[submodule "EGUI"]
+path = EGUI
+url = ssh://git@github.com/CodeEditorLand/EGUI.git
