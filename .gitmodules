@@ -412,7 +412,7 @@ url = ssh://git@github.com/CodeEditorLand/Deno.git
 
 [submodule "Egui"]
 path = Egui
-url = ssh://git@github.com/CodeEditorLand/EGUI.git
+url = ssh://git@github.com/CodeEditorLand/Egui.git
 
 [submodule "TauriPluginAuthenticator"]
 path = TauriPluginAuthenticator
