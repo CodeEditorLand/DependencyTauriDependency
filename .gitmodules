@@ -366,10 +366,6 @@ url = ssh://git@github.com/CodeEditorLand/TauriStudio.git
 path = TauriSearch
 url = ssh://git@github.com/CodeEditorLand/TauriSearch.git
 
-[submodule "TauriDocs"]
-path = TauriDocs
-url = ssh://git@github.com/CodeEditorLand/TauriDocs.git
-
 [submodule "BenchMarkElectron"]
 path = BenchMarkElectron
 url = ssh://git@github.com/CodeEditorLand/BenchMarkElectron.git
