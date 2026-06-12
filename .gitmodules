@@ -1,8 +1,3 @@
-[submodule "GlobalHotKey"]
-path = GlobalHotKey
-url = ssh://git@github.com/CodeEditorLand/GlobalHotKey.git
-ignore = all
-
 [submodule "Muda"]
 path = Muda
 url = ssh://git@github.com/CodeEditorLand/Muda.git
@@ -21,16 +16,6 @@ ignore = all
 [submodule "TrayIcon"]
 path = TrayIcon
 url = ssh://git@github.com/CodeEditorLand/TrayIcon.git
-ignore = all
-
-[submodule "WindowShadows"]
-path = WindowShadows
-url = ssh://git@github.com/CodeEditorLand/WindowShadows.git
-ignore = all
-
-[submodule "WindowVibrancy"]
-path = WindowVibrancy
-url = ssh://git@github.com/CodeEditorLand/WindowVibrancy.git
 ignore = all
 
 [submodule "Wry"]
